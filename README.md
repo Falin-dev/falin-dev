@@ -1,18 +1,264 @@
-# 💫 About Me:
-SOFTWARE Developer<br>I use ARCH BTW
-*Falin*
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/encode_falin.py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandofalin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/falin_sando) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=FALIN%20SANDO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20DS%20Student%20%7C%20Software%20Developer%20%7C%20Builder&descAlignY=58&descSize=18"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Falin-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Falin-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Falin-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+real-world+projects;Learning+by+building;Exploring+AI+%26+LLMs;Turning+ideas+into+working+software" alt="Typing SVG" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://img.shields.io/badge/EDUCATION-B.Tech%20AI%20%26%20DS-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%26%20Backend-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/sandofalin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Falin-dev">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ■ About Me
+
+```yaml
+name: Falin Sando
+education: B.Tech Artificial Intelligence & Data Science
+role: Software Developer
+focus:
+  - Full Stack Development
+  - Backend Development
+  - REST APIs
+  - Problem Solving
+
+currently_learning:
+  - React
+  - Django & Django REST Framework
+  - PostgreSQL
+  - Cloud & AWS
+  - Data Structures & Algorithms
+  - Artificial Intelligence & LLMs
+
+mindset: Learn → Build → Break → Understand → Improve
+```
+
+I'm a final-year B.Tech student specializing in Artificial Intelligence and Data Science, interested in building reliable and useful software.
+
+I enjoy working across the stack, with a growing focus on backend development, APIs, databases, and system fundamentals.
+
+I learn best by building real projects, experimenting with technologies, and understanding how things work under the hood.
+
+---
+
+## ■■ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+### Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,nginx,vercel"/>
+</p>
+
+### Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+</p>
+
+---
+
+## ■ My Learning Journey
+
+```text
+Programming Fundamentals
+        ↓
+Web Development
+        ↓
+Full Stack Development
+        ↓
+Backend & REST APIs
+        ↓
+Databases & System Fundamentals
+        ↓
+Cloud & Deployment
+        ↓
+AI-powered Applications
+        ↓
+Professional Software Development
+```
+
+### Currently Exploring
+
+* React & modern frontend development
+* Django & Django REST Framework
+* PostgreSQL & database design
+* Data Structures & Algorithms
+* AWS & Cloud fundamentals
+* AI / LLM-powered applications
+* Linux & developer tooling
+
+---
+
+## ■ Featured Projects
+
+### ■ Project 01 — SCOPIO
+
+An IoT-focused e-learning platform built to help learners explore courses and educational content around IoT and embedded technologies.
+
+**Tech Stack:**
+
+`Django` `Django REST Framework` `React` `PostgreSQL` `Azure` `Nginx` `Gunicorn`
+
+---
+
+### ■ Project 02 — Penguin
+
+A Linux-inspired social platform where users can create accounts, authenticate, publish posts, and interact with a community feed.
+
+Built as a learning project to strengthen full-stack development, REST APIs, authentication, databases, and frontend-backend integration.
+
+**Tech Stack:**
+
+`React` `Node.js` `Express.js` `PostgreSQL` `JWT`
+
+---
+
+### ■ Project 03 — AI & Developer Experiments
+
+A collection of experiments and smaller projects exploring artificial intelligence, APIs, automation, developer tooling, and new technologies.
+
+**Focus:**
+
+`AI` `LLMs` `APIs` `Automation` `Web Development`
+
+---
+
+## ■ Building In Public
+
+I believe the fastest way to improve as a developer is to build things that are slightly beyond what you currently know.
+
+> Learn → Build → Break → Understand → Improve
+
+From college projects to personal experiments, I'm constantly trying to turn ideas into working software.
+
+---
+
+## ■ Current Focus
+
+```yaml
+learning:
+  - React
+  - Django REST Framework
+  - PostgreSQL
+  - Data Structures & Algorithms
+  - AWS / Cloud Fundamentals
+
+building:
+  - Penguin
+  - Full Stack Projects
+  - AI-powered Experiments
+
+exploring:
+  - LLM Applications
+  - Backend Architecture
+  - REST API Design
+  - Cloud Deployment
+  - Linux & Developer Tooling
+
+goal:
+  - Become a strong Software Engineer
+  - Build scalable and useful software
+```
+
+---
+
+## ■ Community & Leadership
+
+* **Lead Organizer** — Technical community run by students at college
+* **Co-Founder & CTO** — EdTech platform serving 300+ users
+* **Toastmaster** — Practicing public speaking and communication for almost 3 years
+* **Byte Bash Blitz** — Lead Organizer
+
+I enjoy not only building software, but also organizing technical communities and helping people learn and collaborate.
+
+---
+
+## ■ GitHub
+
+<div align="center">
+
+<a href="https://github.com/Falin-dev">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Improving-6D28D9?style=for-the-badge"/>
+
+</div>
+
+---
+
+## ■ Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sandofalin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Falin-dev">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ■ Keep Building. Keep Learning. Keep Growing.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Curiosity+Drives+Development+%E2%9C%A8" alt="Footer Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
