@@ -1,264 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=FALIN%20SANDO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20DS%20Student%20%7C%20Software%20Developer%20%7C%20Builder&descAlignY=58&descSize=18"/>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>falin-dev</sub></p>
+<h1>Moun Sando Falin A</h1>
+<h2>Software Developer / full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p>I Use Arch BTW</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+real-world+projects;Learning+by+building;Exploring+AI+%26+LLMs;Turning+ideas+into+working+software" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/EDUCATION-B.Tech%20AI%20%26%20DS-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20%26%20Backend-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/sandofalin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Falin-dev">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<p><a href="https://github.com/falin-dev">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/172779976?u=5db89ecd97ae52c08b125bef5dab4578c93a5802&amp;v=4" width="180" alt="Moun Sando Falin A GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## ■ About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Software / full-stack engineer · JavaScript · Java</p></td>
+<td width="33%" valign="top"><h3>Works</h3><p>14 repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>98 contributions · 51 active days</p></td>
+</tr>
+</table>
 
-```yaml
-name: Falin Sando
-education: B.Tech Artificial Intelligence & Data Science
-role: Software Developer
-focus:
-  - Full Stack Development
-  - Backend Development
-  - REST APIs
-  - Problem Solving
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-currently_learning:
-  - React
-  - Django & Django REST Framework
-  - PostgreSQL
-  - Cloud & AWS
-  - Data Structures & Algorithms
-  - Artificial Intelligence & LLMs
+<h2>Proof at a glance</h2>
 
-mindset: Learn → Build → Break → Understand → Improve
-```
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>14</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>98</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>14</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-I'm a final-year B.Tech student specializing in Artificial Intelligence and Data Science, interested in building reliable and useful software.
-
-I enjoy working across the stack, with a growing focus on backend development, APIs, databases, and system fundamentals.
-
-I learn best by building real projects, experimenting with technologies, and understanding how things work under the hood.
-
----
-
-## ■■ Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=falin-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172779976%3Fu%3D5db89ecd97ae52c08b125bef5dab4578c93a5802%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=falin-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172779976%3Fu%3D5db89ecd97ae52c08b125bef5dab4578c93a5802%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Moun Sando Falin A GitHub proof metrics" />
+</picture>
 </p>
 
-### Frontend
+<h2>Selected work</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=falin-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172779976%3Fu%3D5db89ecd97ae52c08b125bef5dab4578c93a5802%26v%3D4&repos=falin-dev%2Fpenguin%2Cfalin-dev%2FLearning-Insights%2Cfalin-dev%2FDSA%2Cfalin-dev%2FmyNode&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=falin-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172779976%3Fu%3D5db89ecd97ae52c08b125bef5dab4578c93a5802%26v%3D4&repos=falin-dev%2Fpenguin%2Cfalin-dev%2FLearning-Insights%2Cfalin-dev%2FDSA%2Cfalin-dev%2FmyNode&v=recruiter-projects-1&mode=dark" width="100%" alt="Moun Sando Falin A selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Falin-dev/penguin">penguin</a></h3>
+<p>A Linux Community App</p>
+<p><sub>JavaScript · ⭐ 2 · 🍴 0</sub></p>
+<p><a href="https://github.com/Falin-dev/penguin">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Scopio-Co/Scopio-WebApp">SCOPIO</a></h3><p>Scopio an E Learning Ed tech platform</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Falin-dev/Sr_Info">SR Info</a></h3><p>RAG based Chat Solution for your User Manual</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=falin-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172779976%3Fu%3D5db89ecd97ae52c08b125bef5dab4578c93a5802%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=falin-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172779976%3Fu%3D5db89ecd97ae52c08b125bef5dab4578c93a5802%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Moun Sando Falin A technology stack" />
+</picture>
 </p>
 
-### Backend & APIs
+<table width="100%">
+<tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>19% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>React JS</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>Django</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>Express JS</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>DSA</strong><br /><sub>9% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=falin-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172779976%3Fu%3D5db89ecd97ae52c08b125bef5dab4578c93a5802%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=falin-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172779976%3Fu%3D5db89ecd97ae52c08b125bef5dab4578c93a5802%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Moun Sando Falin A contribution activity" />
+</picture>
 </p>
 
-### Databases
+<hr />
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
-</p>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/falin-dev">GitHub</a></td>
+</tr>
+</table>
 
-### Cloud & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=azure,nginx,vercel"/>
-</p>
-
-### Tools & Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
-</p>
-
----
-
-## ■ My Learning Journey
-
-```text
-Programming Fundamentals
-        ↓
-Web Development
-        ↓
-Full Stack Development
-        ↓
-Backend & REST APIs
-        ↓
-Databases & System Fundamentals
-        ↓
-Cloud & Deployment
-        ↓
-AI-powered Applications
-        ↓
-Professional Software Development
-```
-
-### Currently Exploring
-
-* React & modern frontend development
-* Django & Django REST Framework
-* PostgreSQL & database design
-* Data Structures & Algorithms
-* AWS & Cloud fundamentals
-* AI / LLM-powered applications
-* Linux & developer tooling
-
----
-
-## ■ Featured Projects
-
-### ■ Project 01 — SCOPIO
-
-An IoT-focused e-learning platform built to help learners explore courses and educational content around IoT and embedded technologies.
-
-**Tech Stack:**
-
-`Django` `Django REST Framework` `React` `PostgreSQL` `Azure` `Nginx` `Gunicorn`
-
----
-
-### ■ Project 02 — Penguin
-
-A Linux-inspired social platform where users can create accounts, authenticate, publish posts, and interact with a community feed.
-
-Built as a learning project to strengthen full-stack development, REST APIs, authentication, databases, and frontend-backend integration.
-
-**Tech Stack:**
-
-`React` `Node.js` `Express.js` `PostgreSQL` `JWT`
-
----
-
-### ■ Project 03 — AI & Developer Experiments
-
-A collection of experiments and smaller projects exploring artificial intelligence, APIs, automation, developer tooling, and new technologies.
-
-**Focus:**
-
-`AI` `LLMs` `APIs` `Automation` `Web Development`
-
----
-
-## ■ Building In Public
-
-I believe the fastest way to improve as a developer is to build things that are slightly beyond what you currently know.
-
-> Learn → Build → Break → Understand → Improve
-
-From college projects to personal experiments, I'm constantly trying to turn ideas into working software.
-
----
-
-## ■ Current Focus
-
-```yaml
-learning:
-  - React
-  - Django REST Framework
-  - PostgreSQL
-  - Data Structures & Algorithms
-  - AWS / Cloud Fundamentals
-
-building:
-  - Penguin
-  - Full Stack Projects
-  - AI-powered Experiments
-
-exploring:
-  - LLM Applications
-  - Backend Architecture
-  - REST API Design
-  - Cloud Deployment
-  - Linux & Developer Tooling
-
-goal:
-  - Become a strong Software Engineer
-  - Build scalable and useful software
-```
-
----
-
-## ■ Community & Leadership
-
-* **Lead Organizer** — Technical community run by students at college
-* **Co-Founder & CTO** — EdTech platform serving 300+ users
-* **Toastmaster** — Practicing public speaking and communication for almost 3 years
-* **Byte Bash Blitz** — Lead Organizer
-
-I enjoy not only building software, but also organizing technical communities and helping people learn and collaborate.
-
----
-
-## ■ GitHub
-
-<div align="center">
-
-<a href="https://github.com/Falin-dev">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Improving-6D28D9?style=for-the-badge"/>
-
-</div>
-
----
-
-## ■ Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/sandofalin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Falin-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ■ Keep Building. Keep Learning. Keep Growing.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Curiosity+Drives+Development+%E2%9C%A8" alt="Footer Animation"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
+<p align="center"><sub>Moun Sando Falin A</sub></p>
