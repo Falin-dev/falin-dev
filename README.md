@@ -1,22 +1,12 @@
 <div align="center">
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>falin-dev</sub></p>
-<h1>Moun Sando Falin A</h1>
-<h2>Software Developer / full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p>I Use Arch BTW</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=falin-dev&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172779976%3Fu%3D5db89ecd97ae52c08b125bef5dab4578c93a5802%26v%3D4" alt="falin-dev hero visual" />
+</p>
 
-<p><a href="https://github.com/falin-dev">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/172779976?u=5db89ecd97ae52c08b125bef5dab4578c93a5802&amp;v=4" width="180" alt="Moun Sando Falin A GitHub avatar" />
-</td>
-</tr>
-</table>
+</div>
+
 </div>
 
 <h2>What teams can evaluate quickly</h2>
