@@ -51,7 +51,7 @@
 </td>
 <td width="42%" valign="top">
 <h3><a href="https://github.com/Falin-dev/penguin">penguin</a></h3>
-<p>A Linux Community App</p>
+<p>A Linux Community Software</p>
 <p><sub>JavaScript · ⭐ 2 · 🍴 0</sub></p>
 <p><a href="https://github.com/Falin-dev/penguin">Read the repository →</a></p>
 </td>
